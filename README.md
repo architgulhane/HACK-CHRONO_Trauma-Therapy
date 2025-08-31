@@ -51,6 +51,11 @@ The Fast web application serves the chatbot and handles user interactions.
 - **Frontend:** HTML, CSS, JavaScript (with Fetch API)
 <img width="1022" height="483" alt="image" src="https://github.com/user-attachments/assets/ed2dd9d6-315c-402b-a7c0-bd7b9cd15f24" />
 
+## Sample Prototype 
+![WhatsApp Image 2025-09-01 at 00 57 24_cdf30ac9](https://github.com/user-attachments/assets/ad01dd25-c297-42db-b092-066835f2eb81)
+<img width="1272" height="807" alt="image" src="https://github.com/user-attachments/assets/f3ec41c8-cf61-406f-b823-f1259376d103" />
+
+
 
 
 
