@@ -49,11 +49,8 @@ The Fast web application serves the chatbot and handles user interactions.
 - **Machine Learning:** TensorFlow, Keras, NLTK, Scikit-learn
 - **Natural Language Processing:** Hugging Face Transformers (for translation), Spacy (for language detection)
 - **Frontend:** HTML, CSS, JavaScript (with Fetch API)
-<p align="center">
-<img width="385" height="507" alt="image" src="https://github.com/user-attachments/assets/44c2c861-b862-44c5-868f-28f3a37d6b49" />
-&nbsp;&nbsp;&nbsp;
-<img width="491" height="475" alt="image" src="https://github.com/user-attachments/assets/f9495624-bff6-4048-bd10-06c69e4d0b31" />
-</p>
+<img width="1022" height="483" alt="image" src="https://github.com/user-attachments/assets/ed2dd9d6-315c-402b-a7c0-bd7b9cd15f24" />
+
 
 
 
