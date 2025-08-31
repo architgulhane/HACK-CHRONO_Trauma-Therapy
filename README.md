@@ -31,7 +31,7 @@ The chatbot's intelligence is derived from a neural network model trained on the
 
 ### 2. Inference (`app.py`)
 
-The Flask web application serves the chatbot and handles user interactions.
+The Fast web application serves the chatbot and handles user interactions.
 
 1.  **User Input:** The user sends a message through the web interface.
 2.  **Language Detection:** `spacy-langdetect` identifies the language of the input message (English or Swahili).
@@ -45,10 +45,11 @@ The Flask web application serves the chatbot and handles user interactions.
 
 ## Technologies Used
 
-- **Backend:** Python, Flask
+- **Backend:** Python, Fast
 - **Machine Learning:** TensorFlow, Keras, NLTK, Scikit-learn
 - **Natural Language Processing:** Hugging Face Transformers (for translation), Spacy (for language detection)
 - **Frontend:** HTML, CSS, JavaScript (with Fetch API)
+  
 
 ## Project Structure
 
@@ -97,7 +98,7 @@ Follow these steps to run the project locally.
     ```
     This will regenerate `model.h5`, `texts.pkl`, and `labels.pkl`.
 
-5.  **Run the Flask Application**
+5.  **Run the Fast Application**
     ```bash
     python app.py
     ```
