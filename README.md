@@ -49,6 +49,13 @@ The Fast web application serves the chatbot and handles user interactions.
 - **Machine Learning:** TensorFlow, Keras, NLTK, Scikit-learn
 - **Natural Language Processing:** Hugging Face Transformers (for translation), Spacy (for language detection)
 - **Frontend:** HTML, CSS, JavaScript (with Fetch API)
+<img width="385" height="507" alt="image" src="https://github.com/user-attachments/assets/44c2c861-b862-44c5-868f-28f3a37d6b49" />
+&nbsp;&nbsp;&nbsp;
+<img width="491" height="475" alt="image" src="https://github.com/user-attachments/assets/f9495624-bff6-4048-bd10-06c69e4d0b31" />
+
+
+
+
   
 
 ## Project Structure
@@ -105,16 +112,3 @@ Follow these steps to run the project locally.
 
 6.  **Access the Chatbot**
     Open your web browser and navigate to `http://127.0.0.1:5000`. You can now start chatting with the bot.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request. You can contribute by:
-
--   Expanding the `intents.json` file with more patterns and responses.
--   Improving the neural network architecture in `training.py`.
--   Enhancing the frontend user interface.
--   Adding support for more languages.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
