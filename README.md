@@ -35,7 +35,7 @@ The Fast web application serves the chatbot and handles user interactions.
 
 1.  **User Input:** The user sends a message through the web interface.
 2.  **Language Detection:** `spacy-langdetect` identifies the language of the input message (English or Swahili).
-3.  **Translation (Swahili to English):** If the detected language is Swahili, the message is translated to English using a pre-trained `Hugging Face Transformers` model (`Rogendo/sw-en`).
+3.  **Translation (Any Language to English):** If the detected language is any language, the message is translated to English using a pre-trained Hugging Face Transformers model (facebook/m2m100_418M).
 4.  **Intent Prediction:**
     - The (now English) message is cleaned and converted into a bag-of-words vector using the vocabulary from `texts.pkl`.
     - The trained Keras model (`model.h5`) predicts the intent of the message from the vector.
