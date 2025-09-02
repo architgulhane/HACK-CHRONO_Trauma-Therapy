@@ -40,7 +40,7 @@ The Fast web application serves the chatbot and handles user interactions.
     - The (now English) message is cleaned and converted into a bag-of-words vector using the vocabulary from `texts.pkl`.
     - The trained Keras model (`model.h5`) predicts the intent of the message from the vector.
 5.  **Response Generation:** A suitable response is randomly selected from the list of responses corresponding to the predicted intent in `intents.json`.
-6.  **Translation (English to Swahili):** If the original message was in Swahili, the selected English response is translated back to Swahili using the `Rogendo/en-sw` model.
+6.  **Translation (English to Any Language):** If the original message was in any language, the selected English response is translated back to that language using the `facebook/m2m100_418M` model.
 7.  **Display Response:** The final response is sent back to the user's browser.
 
 ## Technologies Used
